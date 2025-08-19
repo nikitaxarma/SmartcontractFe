@@ -32,4 +32,4 @@ Once the DApp is running, open your browser and navigate to http://localhost:300
 4. **Withdraw:** Enter an amount in the input field and click the "Withdraw" button to withdraw the specified amount from the smart contract.
 5. **Calculate Factorial:** Enter a positive number in the input field and click the "Calculate Factorial" button to calculate the factorial of the entered number.
 6. **Check Palindrome:** Enter a number in the input field and click the "Check Palindrome" button to check if the entered number is a palindrome.
-7. **Display My Info:** Click the "Rohan Sharma" button to display training and roll number information.
+7. **Display My Info:** Click the "Nikita Sharma" button to display training and roll number information.
